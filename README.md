@@ -1,6 +1,7 @@
 # Contexto Solver
 
-Find the top word in Contexto games with just a word and an index pair.
+Find the top word in Contexto games with just a word and index pair.
+Supports English, Español and Português.
 
 ## Installation
 
@@ -15,9 +16,11 @@ Find the top word in Contexto games with just a word and an index pair.
   pip install -r requirements.txt
   ```
 
-3. Run the script:
+3. Run the Solver Script:
   ```
-  python index.py
+  python english-solver.py   # For English
+  python espanol-solver.py   # For Spanish
+  python portugues-solver.py # For Portuguese
   ```
 
 ## Usage
@@ -30,4 +33,3 @@ Find the top word in Contexto games with just a word and an index pair.
 ## Potential Future Updates
 
 - **Optimization**: Improve caching system to reduce time spent caching.
-- **Multi-Language Support**: Add support for additional Contexto languages such as Español and Português.
