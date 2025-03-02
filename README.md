@@ -1,6 +1,6 @@
 # Contexto Solver
 
-Find the top word in Contexto games with just a word and index pair.
+Find the top word in Contexto games with just a word and index pair. 
 Supports English, Español and Português.
 
 ## Installation
