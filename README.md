@@ -7,8 +7,8 @@ Supports English, Español and Português.
 
 1. Clone the repository:
   ```bash
-   git clone https://github.com/Shelter9842/contextosolver.git
-   cd contexto-solver
+  git clone https://github.com/Shelter9842/contextosolver.git
+  cd contexto-solver
   ```
 
 2. Install the required dependencies using pip:
