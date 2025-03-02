@@ -7,7 +7,7 @@ Supports English, Español and Português.
 
 1. Clone the repository:
   ```bash
-   git clone https://github.com/yourusername/contexto-solver.git
+   git clone https://github.com/Shelter9842/contextosolver.git
    cd contexto-solver
   ```
 
